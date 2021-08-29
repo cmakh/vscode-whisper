@@ -1,2 +1,2 @@
 - [ ] Find TTS engine that can whisper
-- [ ] Figure out if VSCode can create sounds or if standalone audio process is needed
+- [ ] Figure out if VSCode can create sounds or if standalone audio process is needed (https://stackoverflow.com/questions/61118647/play-sound-in-the-webview-provided-by-vscode)
